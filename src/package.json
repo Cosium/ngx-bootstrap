@@ -1,8 +1,11 @@
 {
-  "name": "ngx-bootstrap",
+  "name": "@cosium/ngx-bootstrap",
+  "publishConfig": {
+    "registry": "https://nexus.cosium.dev/repository/npm-releases/"
+  },
   "peerDependencies": {
     "@angular/core": "*",
     "@angular/common": "*"
   },
-  "version": "6.2.0"
+  "version": "6.2.0-fork.0"
 }
