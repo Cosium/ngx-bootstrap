@@ -1,5 +1,5 @@
 {
-  "name": "ngx-bootstrap",
+  "name": "@cosium/ngx-bootstrap",
   "version": "9.0.0-fork.0",
   "description": "Angular Bootstrap",
   "author": "Dmitriy Shekhovtsov <valorkin@gmail.com>",
