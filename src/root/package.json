@@ -214,7 +214,7 @@
   },
   "sideEffects": false,
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
+    "registry": "https://nexus.cosium.dev/repository/npm-releases/",
     "tag": "next"
   },
   "repository": {
