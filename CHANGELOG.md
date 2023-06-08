@@ -1,3 +1,12 @@
+# [9.0.0-fork.1](https://github.com/valor-software/ngx-bootstrap/compare/v9.0.0...v9.0.0-fork.1) (2023-06-08)
+
+
+### Bug Fixes
+
+* **modal:** hide works even if show hasn't finished ([#6518](https://github.com/valor-software/ngx-bootstrap/issues/6518)) ([be95371](https://github.com/valor-software/ngx-bootstrap/commit/be95371b04381611f99ba2575d6ebf4475b5679c))
+
+
+
 # [9.0.0](https://github.com/valor-software/ngx-bootstrap/compare/v9.0.0-RC.2...v9.0.0) (2022-07-25)
 
 
