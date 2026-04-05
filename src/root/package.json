@@ -17,7 +17,7 @@
   },
   "exports": {
     "./accordion": {
-      "types": "./accordion/ngx-bootstrap-accordion.d.ts",
+      "types": "./accordion/index.d.ts",
       "esm2020": "./accordion/esm2020/ngx-bootstrap-accordion.mjs",
       "es2020": "./accordion/fesm2020/ngx-bootstrap-accordion.mjs",
       "es2015": "./accordion/fesm2015/ngx-bootstrap-accordion.mjs",
@@ -25,7 +25,7 @@
       "default": "./accordion/fesm2020/ngx-bootstrap-accordion.mjs"
     },
     "./alert": {
-      "types": "./alert/ngx-bootstrap-alert.d.ts",
+      "types": "./alert/index.d.ts",
       "esm2020": "./alert/esm2020/ngx-bootstrap-alert.mjs",
       "es2020": "./alert/fesm2020/ngx-bootstrap-alert.mjs",
       "es2015": "./alert/fesm2015/ngx-bootstrap-alert.mjs",
@@ -33,7 +33,7 @@
       "default": "./alert/fesm2020/ngx-bootstrap-alert.mjs"
     },
     "./buttons": {
-      "types": "./buttons/ngx-bootstrap-buttons.d.ts",
+      "types": "./buttons/index.d.ts",
       "esm2020": "./buttons/esm2020/ngx-bootstrap-buttons.mjs",
       "es2020": "./buttons/fesm2020/ngx-bootstrap-buttons.mjs",
       "es2015": "./buttons/fesm2015/ngx-bootstrap-buttons.mjs",
@@ -41,7 +41,7 @@
       "default": "./buttons/fesm2020/ngx-bootstrap-buttons.mjs"
     },
     "./carousel": {
-      "types": "./carousel/ngx-bootstrap-carousel.d.ts",
+      "types": "./carousel/index.d.ts",
       "esm2020": "./carousel/esm2020/ngx-bootstrap-carousel.mjs",
       "es2020": "./carousel/fesm2020/ngx-bootstrap-carousel.mjs",
       "es2015": "./carousel/fesm2015/ngx-bootstrap-carousel.mjs",
@@ -49,7 +49,7 @@
       "default": "./carousel/fesm2020/ngx-bootstrap-carousel.mjs"
     },
     "./chronos": {
-      "types": "./chronos/ngx-bootstrap-chronos.d.ts",
+      "types": "./chronos/index.d.ts",
       "esm2020": "./chronos/esm2020/ngx-bootstrap-chronos.mjs",
       "es2020": "./chronos/fesm2020/ngx-bootstrap-chronos.mjs",
       "es2015": "./chronos/fesm2015/ngx-bootstrap-chronos.mjs",
@@ -57,7 +57,7 @@
       "default": "./chronos/fesm2020/ngx-bootstrap-chronos.mjs"
     },
     "./collapse": {
-      "types": "./collapse/ngx-bootstrap-collapse.d.ts",
+      "types": "./collapse/index.d.ts",
       "esm2020": "./collapse/esm2020/ngx-bootstrap-collapse.mjs",
       "es2020": "./collapse/fesm2020/ngx-bootstrap-collapse.mjs",
       "es2015": "./collapse/fesm2015/ngx-bootstrap-collapse.mjs",
@@ -65,7 +65,7 @@
       "default": "./collapse/fesm2020/ngx-bootstrap-collapse.mjs"
     },
     "./component-loader": {
-      "types": "./component-loader/ngx-bootstrap-component-loader.d.ts",
+      "types": "./component-loader/index.d.ts",
       "esm2020": "./component-loader/esm2020/ngx-bootstrap-component-loader.mjs",
       "es2020": "./component-loader/fesm2020/ngx-bootstrap-component-loader.mjs",
       "es2015": "./component-loader/fesm2015/ngx-bootstrap-component-loader.mjs",
@@ -73,7 +73,7 @@
       "default": "./component-loader/fesm2020/ngx-bootstrap-component-loader.mjs"
     },
     "./datepicker": {
-      "types": "./datepicker/ngx-bootstrap-datepicker.d.ts",
+      "types": "./datepicker/index.d.ts",
       "esm2020": "./datepicker/esm2020/ngx-bootstrap-datepicker.mjs",
       "es2020": "./datepicker/fesm2020/ngx-bootstrap-datepicker.mjs",
       "es2015": "./datepicker/fesm2015/ngx-bootstrap-datepicker.mjs",
@@ -84,7 +84,7 @@
       "style": "./datepicker/bs-datepicker.css"
     },
     "./dropdown": {
-      "types": "./dropdown/ngx-bootstrap-dropdown.d.ts",
+      "types": "./dropdown/index.d.ts",
       "esm2020": "./dropdown/esm2020/ngx-bootstrap-dropdown.mjs",
       "es2020": "./dropdown/fesm2020/ngx-bootstrap-dropdown.mjs",
       "es2015": "./dropdown/fesm2015/ngx-bootstrap-dropdown.mjs",
@@ -92,7 +92,7 @@
       "default": "./dropdown/fesm2020/ngx-bootstrap-dropdown.mjs"
     },
     "./focus-trap": {
-      "types": "./focus-trap/ngx-bootstrap-focus-trap.d.ts",
+      "types": "./focus-trap/index.d.ts",
       "esm2020": "./focus-trap/esm2020/ngx-bootstrap-focus-trap.mjs",
       "es2020": "./focus-trap/fesm2020/ngx-bootstrap-focus-trap.mjs",
       "es2015": "./focus-trap/fesm2015/ngx-bootstrap-focus-trap.mjs",
@@ -100,7 +100,7 @@
       "default": "./focus-trap/fesm2020/ngx-bootstrap-focus-trap.mjs"
     },
     "./locale": {
-      "types": "./locale/ngx-bootstrap-locale.d.ts",
+      "types": "./locale/index.d.ts",
       "esm2020": "./locale/esm2020/ngx-bootstrap-locale.mjs",
       "es2020": "./locale/fesm2020/ngx-bootstrap-locale.mjs",
       "es2015": "./locale/fesm2015/ngx-bootstrap-locale.mjs",
@@ -108,7 +108,7 @@
       "default": "./locale/fesm2020/ngx-bootstrap-locale.mjs"
     },
     "./mini-ngrx": {
-      "types": "./mini-ngrx/ngx-bootstrap-mini-ngrx.d.ts",
+      "types": "./mini-ngrx/index.d.ts",
       "esm2020": "./mini-ngrx/esm2020/ngx-bootstrap-mini-ngrx.mjs",
       "es2020": "./mini-ngrx/fesm2020/ngx-bootstrap-mini-ngrx.mjs",
       "es2015": "./mini-ngrx/fesm2015/ngx-bootstrap-mini-ngrx.mjs",
@@ -116,7 +116,7 @@
       "default": "./mini-ngrx/fesm2020/ngx-bootstrap-mini-ngrx.mjs"
     },
     "./modal": {
-      "types": "./modal/ngx-bootstrap-modal.d.ts",
+      "types": "./modal/index.d.ts",
       "esm2020": "./modal/esm2020/ngx-bootstrap-modal.mjs",
       "es2020": "./modal/fesm2020/ngx-bootstrap-modal.mjs",
       "es2015": "./modal/fesm2015/ngx-bootstrap-modal.mjs",
@@ -124,7 +124,7 @@
       "default": "./modal/fesm2020/ngx-bootstrap-modal.mjs"
     },
     "./pagination": {
-      "types": "./pagination/ngx-bootstrap-pagination.d.ts",
+      "types": "./pagination/index.d.ts",
       "esm2020": "./pagination/esm2020/ngx-bootstrap-pagination.mjs",
       "es2020": "./pagination/fesm2020/ngx-bootstrap-pagination.mjs",
       "es2015": "./pagination/fesm2015/ngx-bootstrap-pagination.mjs",
@@ -132,7 +132,7 @@
       "default": "./pagination/fesm2020/ngx-bootstrap-pagination.mjs"
     },
     "./popover": {
-      "types": "./popover/ngx-bootstrap-popover.d.ts",
+      "types": "./popover/index.d.ts",
       "esm2020": "./popover/esm2020/ngx-bootstrap-popover.mjs",
       "es2020": "./popover/fesm2020/ngx-bootstrap-popover.mjs",
       "es2015": "./popover/fesm2015/ngx-bootstrap-popover.mjs",
@@ -140,7 +140,7 @@
       "default": "./popover/fesm2020/ngx-bootstrap-popover.mjs"
     },
     "./positioning": {
-      "types": "./positioning/ngx-bootstrap-positioning.d.ts",
+      "types": "./positioning/index.d.ts",
       "esm2020": "./positioning/esm2020/ngx-bootstrap-positioning.mjs",
       "es2020": "./positioning/fesm2020/ngx-bootstrap-positioning.mjs",
       "es2015": "./positioning/fesm2015/ngx-bootstrap-positioning.mjs",
@@ -148,7 +148,7 @@
       "default": "./positioning/fesm2020/ngx-bootstrap-positioning.mjs"
     },
     "./progressbar": {
-      "types": "./progressbar/ngx-bootstrap-progressbar.d.ts",
+      "types": "./progressbar/index.d.ts",
       "esm2020": "./progressbar/esm2020/ngx-bootstrap-progressbar.mjs",
       "es2020": "./progressbar/fesm2020/ngx-bootstrap-progressbar.mjs",
       "es2015": "./progressbar/fesm2015/ngx-bootstrap-progressbar.mjs",
@@ -156,7 +156,7 @@
       "default": "./progressbar/fesm2020/ngx-bootstrap-progressbar.mjs"
     },
     "./rating": {
-      "types": "./rating/ngx-bootstrap-rating.d.ts",
+      "types": "./rating/index.d.ts",
       "esm2020": "./rating/esm2020/ngx-bootstrap-rating.mjs",
       "es2020": "./rating/fesm2020/ngx-bootstrap-rating.mjs",
       "es2015": "./rating/fesm2015/ngx-bootstrap-rating.mjs",
@@ -164,7 +164,7 @@
       "default": "./rating/fesm2020/ngx-bootstrap-rating.mjs"
     },
     "./sortable": {
-      "types": "./sortable/ngx-bootstrap-sortable.d.ts",
+      "types": "./sortable/index.d.ts",
       "esm2020": "./sortable/esm2020/ngx-bootstrap-sortable.mjs",
       "es2020": "./sortable/fesm2020/ngx-bootstrap-sortable.mjs",
       "es2015": "./sortable/fesm2015/ngx-bootstrap-sortable.mjs",
@@ -172,7 +172,7 @@
       "default": "./sortable/fesm2020/ngx-bootstrap-sortable.mjs"
     },
     "./tabs": {
-      "types": "./tabs/ngx-bootstrap-tabs.d.ts",
+      "types": "./tabs/index.d.ts",
       "esm2020": "./tabs/esm2020/ngx-bootstrap-tabs.mjs",
       "es2020": "./tabs/fesm2020/ngx-bootstrap-tabs.mjs",
       "es2015": "./tabs/fesm2015/ngx-bootstrap-tabs.mjs",
@@ -180,7 +180,7 @@
       "default": "./tabs/fesm2020/ngx-bootstrap-tabs.mjs"
     },
     "./timepicker": {
-      "types": "./timepicker/ngx-bootstrap-timepicker.d.ts",
+      "types": "./timepicker/index.d.ts",
       "esm2020": "./timepicker/esm2020/ngx-bootstrap-timepicker.mjs",
       "es2020": "./timepicker/fesm2020/ngx-bootstrap-timepicker.mjs",
       "es2015": "./timepicker/fesm2015/ngx-bootstrap-timepicker.mjs",
@@ -188,7 +188,7 @@
       "default": "./timepicker/fesm2020/ngx-bootstrap-timepicker.mjs"
     },
     "./tooltip": {
-      "types": "./tooltip/ngx-bootstrap-tooltip.d.ts",
+      "types": "./tooltip/index.d.ts",
       "esm2020": "./tooltip/esm2020/ngx-bootstrap-tooltip.mjs",
       "es2020": "./tooltip/fesm2020/ngx-bootstrap-tooltip.mjs",
       "es2015": "./tooltip/fesm2015/ngx-bootstrap-tooltip.mjs",
@@ -196,7 +196,7 @@
       "default": "./tooltip/fesm2020/ngx-bootstrap-tooltip.mjs"
     },
     "./typeahead": {
-      "types": "./typeahead/ngx-bootstrap-typeahead.d.ts",
+      "types": "./typeahead/index.d.ts",
       "esm2020": "./typeahead/esm2020/ngx-bootstrap-typeahead.mjs",
       "es2020": "./typeahead/fesm2020/ngx-bootstrap-typeahead.mjs",
       "es2015": "./typeahead/fesm2015/ngx-bootstrap-typeahead.mjs",
@@ -204,7 +204,7 @@
       "default": "./typeahead/fesm2020/ngx-bootstrap-typeahead.mjs"
     },
     "./utils": {
-      "types": "./utils/ngx-bootstrap-utils.d.ts",
+      "types": "./utils/index.d.ts",
       "esm2020": "./utils/esm2020/ngx-bootstrap-utils.mjs",
       "es2020": "./utils/fesm2020/ngx-bootstrap-utils.mjs",
       "es2015": "./utils/fesm2015/ngx-bootstrap-utils.mjs",
