@@ -1,3 +1,7 @@
+# [9.0.0-fork.2](https://github.com/valor-software/ngx-bootstrap/compare/v9.0.0-fork.1...v9.0.0-fork.2) (2026-04-05)
+
+
+
 # [9.0.0-fork.1](https://github.com/valor-software/ngx-bootstrap/compare/v9.0.0...v9.0.0-fork.1) (2023-06-08)
 
 
