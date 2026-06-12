@@ -11,7 +11,7 @@ import { addImportToModule } from '@schematics/angular/utility/ast-utils';
 import { Change, InsertChange } from '@schematics/angular/utility/change';
 import { getAppModulePath } from '@schematics/angular/utility/ng-ast-utils';
 import { getFileContent } from '@schematics/angular/utility/test';
-import * as ts from 'typescript';
+import * as ts from '@schematics/angular/third_party/github.com/Microsoft/TypeScript/lib/typescript';
 import { getProjectMainFile } from './project-main-file';
 import { WorkspaceProject, WorkspaceSchema } from '@schematics/angular/utility/workspace-models';
 import { JsonArray, JsonObject, workspaces } from '@angular-devkit/core';

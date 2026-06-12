@@ -2058,5 +2058,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }

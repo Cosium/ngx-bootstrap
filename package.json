@@ -71,7 +71,7 @@
     "@angular/service-worker": "14.3.0",
     "@nrwl/angular": "14.4.3",
     "@nrwl/node": "14.4.3",
-    "@schematics/angular": "14.0.6",
+    "@schematics/angular": "14.2.13",
     "@stackblitz/sdk": "1.8.0",
     "ajv": "8.11.0",
     "raw-loader": "4.0.2",
