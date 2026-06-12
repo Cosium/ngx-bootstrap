@@ -1,5 +1,5 @@
 import {
-  ApplicationRef, ComponentFactoryResolver, ElementRef, Inject, Injectable, Injector,
+  ApplicationRef, ElementRef, EnvironmentInjector, Inject, Injectable, Injector,
   NgZone, Renderer2, ViewContainerRef
 } from '@angular/core';
 import { ComponentLoader } from './component-loader.class';
@@ -8,7 +8,7 @@ import { DOCUMENT } from '@angular/common';
 
 @Injectable({providedIn: 'root'})
 export class ComponentLoaderFactory {
-  constructor(private _componentFactoryResolver: ComponentFactoryResolver,
+  constructor(private _environmentInjector: EnvironmentInjector,
               private _ngZone: NgZone,
               private _injector: Injector,
               private _posService: PositioningService,
@@ -31,7 +31,7 @@ export class ComponentLoaderFactory {
       _renderer,
       _elementRef,
       this._injector,
-      this._componentFactoryResolver,
+      this._environmentInjector,
       this._ngZone,
       this._applicationRef,
       this._posService,
